@@ -1,0 +1,6 @@
+@API_ShowProductFlutter_HostAddress = http://localhost:5296
+
+GET {{API_ShowProductFlutter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

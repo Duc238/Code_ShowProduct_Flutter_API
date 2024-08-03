@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp tr\u00ECnh\\Flutter\\ShowProduct\\API\\API_ShowProductFlutter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65670AD-00E5-4145-BC0C-C2ECF670062E}|API_ShowProductFlutter.csproj|e:\\l\u1EADp tr\u00ECnh\\flutter\\showproduct\\api\\api_showproductflutter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65670AD-00E5-4145-BC0C-C2ECF670062E}|API_ShowProductFlutter.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65670AD-00E5-4145-BC0C-C2ECF670062E}|API_ShowProductFlutter.csproj|e:\\l\u1EADp tr\u00ECnh\\flutter\\showproduct\\api\\api_showproductflutter\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65670AD-00E5-4145-BC0C-C2ECF670062E}|API_ShowProductFlutter.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65670AD-00E5-4145-BC0C-C2ECF670062E}|API_ShowProductFlutter.csproj|e:\\l\u1EADp tr\u00ECnh\\flutter\\showproduct\\api\\api_showproductflutter\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65670AD-00E5-4145-BC0C-C2ECF670062E}|API_ShowProductFlutter.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\Flutter\\ShowProduct\\API\\API_ShowProductFlutter\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\Flutter\\ShowProduct\\API\\API_ShowProductFlutter\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAUAAAAAAADBVjswwBQAAABwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:47:11.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\Flutter\\ShowProduct\\API\\API_ShowProductFlutter\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\Flutter\\ShowProduct\\API\\API_ShowProductFlutter\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:45:01.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh\\Flutter\\ShowProduct\\API\\API_ShowProductFlutter\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh\\Flutter\\ShowProduct\\API\\API_ShowProductFlutter\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:43:50.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
